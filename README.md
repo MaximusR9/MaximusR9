@@ -2,7 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=MaximusR9&label=Views) <a href="https://discord.gg/7PjCmxgcrP"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white"/></a>
 
 ## About Me
-Hi, its MaximusR9 aka Sky, I'm a Web, WordPress and FiveM Developer with about 5 years of web development experience and 1 year of FiveM experience.
+I'm a Full Stack Developer with about two years of experience in Web Development.
+I'm also a FiveM Developer with about two years of experience.
 
 ## 🛠️ My Skills
 
